@@ -8,7 +8,7 @@ This project develops an end-to-end Machine Learning classifier to predict the l
 **Rihab Junaid Basheer Ahmed** *MSc Business Analytics and Data Science | Politecnico di Milano*
 
 ## 🛠️ Tech Stack & Methodology
-* **Environment:** Python (Jupyter Notebook / Google Colab)
+* **Environment:** Python (Google Colab)
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 * **Model Engine:** Random Forest Classifier 
 
