@@ -35,5 +35,5 @@ Instead of relying solely on baseline accuracy, the model was evaluated on metri
 * **Risk Avoidance Metrics:** Extracted the Confusion Matrix to calculate the exact number of True Positives (defaulters correctly blocked) versus False Negatives (defaulters incorrectly approved/risk leakage).
 
 ## 🚀 How to Run the Notebook
-The full data pipeline and model execution can be viewed and run interactively here:
+The full data pipeline and model execution can be viewed and run interactively here: https://colab.research.google.com/drive/1TxMSKbobHUrPpCXvvaCTn46YgpARDUiW#scrollTo=-1-hRnOD3fZ3
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) *(Note: Add your specific shareable Colab link here)*
