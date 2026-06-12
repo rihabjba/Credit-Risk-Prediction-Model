@@ -17,6 +17,9 @@ This project develops an end-to-end Machine Learning classifier to predict the l
 * Analyzed the distribution of the target variable (`loan_status`) to identify the baseline class imbalance between fully paid loans and defaults.
 * Generated a correlation matrix for all numerical applicant metrics. 
     * *Key Insight:* `loan_percent_income` and `loan_int_rate` demonstrated the strongest positive correlations with loan defaults, making them primary risk drivers.
+ 
+    <img width="976" height="729" alt="correlation matrix" src="https://github.com/user-attachments/assets/cb3c1b66-bef9-4ca3-936d-d0095c0ef70b" />
+ 
 
 ### 2. Data Cleaning & Preprocessing
 * **Imputation:** Addressed missing data in the `person_emp_length` and `loan_int_rate` columns by replacing nulls with the median values.
@@ -37,6 +40,4 @@ The model was tested on a holdout set of 6,517 applicants.
 * **F1-Score (Class 1):** 0.82
 * **Safe Applicant Recall (Class 0):** 99% — The model accurately cleared 99% of reliable borrowers, ensuring the financial institution does not lose profitable loan volume.
 
-## 🚀 How to Run the Notebook
-The full data pipeline and model execution can be viewed and run interactively https://colab.research.google.com/drive/1TxMSKbobHUrPpCXvvaCTn46YgpARDUiW#scrollTo=-1-hRnOD3fZ3
-[![Open In Colab](https://colab.resespecific shareable Colab link here)*
+Colab Link: https://colab.research.google.com/drive/1TxMSKbobHUrPpCXvvaCTn46YgpARDUiW#scrollTo=-1-hRnOD3fZ3
