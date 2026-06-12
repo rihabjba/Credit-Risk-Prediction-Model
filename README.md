@@ -1,5 +1,4 @@
 # Credit-Risk-Prediction-Model
-# Credit Risk Scoring & Predictive Analytics Pipeline
 
 ## 📌 Project Overview
 This project develops an end-to-end Machine Learning classifier to predict the likelihood of financial loan defaults. Utilizing historical credit applicant data, the pipeline cleans features, handles missing variables, balances skewed default classes, and trains a predictive model to optimize a financial institution's risk management strategy.
