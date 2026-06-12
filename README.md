@@ -17,8 +17,8 @@ This project develops an end-to-end Machine Learning classifier to predict the l
 * Analyzed the distribution of the target variable (`loan_status`) to identify the class imbalance between paid loans and defaults.
 * Generated a correlation matrix to identify high-risk financial drivers. 
     * *Insight:* Loan interest rates (`loan_int_rate`) and the loan-to-income percentage (`loan_percent_income`) showed the strongest positive correlation with default probability.
-    *
-    *
+
+Correlation Matrix: 
 <img width="976" height="729" alt="correlation matrix" src="https://github.com/user-attachments/assets/26f798a5-21e7-49af-8387-6416b13101e1" />
 
 
