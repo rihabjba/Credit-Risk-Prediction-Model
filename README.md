@@ -39,4 +39,4 @@ The model was tested on a holdout set of 6,517 applicants.
 
 ## 🚀 How to Run the Notebook
 The full data pipeline and model execution can be viewed and run interactively https://colab.research.google.com/drive/1TxMSKbobHUrPpCXvvaCTn46YgpARDUiW#scrollTo=-1-hRnOD3fZ3
-[![Open In Colab](https://colab.research.gooarch.google.com/) *(Note: Add your specific shareable Colab link here)*
+[![Open In Colab](https://colab.resespecific shareable Colab link here)*
